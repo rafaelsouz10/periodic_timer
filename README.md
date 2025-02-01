@@ -6,7 +6,8 @@
 
 Projeto da atividade **EmbarcaTech**, sobre Clock e Temporizadores. O semáforo alterna entre os estados vermelho, amarelo e verde em intervalos de tempo definidos, simulando o funcionamento de um semáforo real. O projeto foi desenvolvido para funcionar tanto no simulador Wokwi quanto em hardware físico (BitDogLab).
 
-![image](image.png)
+![image](https://github.com/user-attachments/assets/3d6b3c84-f00a-474c-aa24-e2806f717aef)
+
 
 A utilização do callback no projeto é um dos pontos centrais da atividade proposta pelo Embarcatech, pois ele permite a execução periódica de uma função (no caso, a alternância dos estados do semáforo) sem bloquear a execução do programa principal.
 
