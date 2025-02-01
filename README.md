@@ -95,9 +95,9 @@ Abaixo está o mapeamento de conexões entre os componentes e a Raspberry Pi Pic
 
    |  **Componentes do BitDogLab**  |   **Pino Conectacos (GPIO)**    |
    |--------------------------------|---------------------------------|
-   | LED_RGB_R                      | GPIO 6                          |
-   | LED_RGB_G                      | GPIO 7                          |
-   | LED_RGB_B                      | GPIO 8                          |
+   | LED_RGB_R                      | GPIO 13                         |
+   | LED_RGB_G                      | GPIO 12                         |
+   | LED_RGB_B                      | GPIO 11                         |
 
 
 **Observações**:
